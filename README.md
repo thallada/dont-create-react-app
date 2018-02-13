@@ -26,7 +26,7 @@ require('dont-create-react-app');
 
 This will automatically uninstall React for you!
 
---
+---
 
 Credit to [@Tribex_](https://twitter.com/Tribex_/status/962988894500225024) for
 the idea.
