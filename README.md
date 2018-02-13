@@ -4,8 +4,6 @@ Don't create React apps with no build configuration.
 
 Don't Create React App works on macOS, Windows, and Linux.
 
-If something doesn't work, oh well.
-
 ## Quick Overview
 
 ```sh
