@@ -14,6 +14,8 @@ vim not-react.js
 
 *(npx comes with npm 5.2+ and higher)*
 
+![example run of dont-create-react-app](demo.png)
+
 ## Undoing React
 
 We all mistakes. Import `dont-create-react-app` to remove React from any
